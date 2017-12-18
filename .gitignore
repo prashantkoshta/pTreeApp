@@ -4,3 +4,4 @@ artifacts/
 npm-debug.*
 .DS_Store
 .jest/
+artifacts/
